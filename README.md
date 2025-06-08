@@ -20,4 +20,4 @@ Minimal proxies are ultra-lightweight contracts that forward all logic to a shar
 
 A minimal proxy is a tiny contract whose only purpose is to delegate calls to a shared implementation contract. It avoids duplicating code across contracts, significantly reducing deployment cost.
 Add commentMore actions
-It works by embedding the address of the logic contract into a predefined bytecode shell like this:
+It works by embedding the address of the logic contract into a predefined bytecode shell
